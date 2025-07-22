@@ -1,0 +1,47 @@
+{
+  "name": "torino",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.4",
+    "@hookform/resolvers": "^5.1.1",
+    "@next/eslint-plugin-next": "^15.4.1",
+    "@persian-tools/persian-tools": "^3.6.0",
+    "@tanstack/react-query": "^5.83.0",
+    "@tanstack/react-query-devtools": "^5.83.0",
+    "axios": "^1.10.0",
+    "dayjs": "^1.11.13",
+    "dayjs-jalali": "^0.0.2",
+    "jalaliday": "^3.1.0",
+    "js-cookie": "^3.0.5",
+    "next": "^14.2.30",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.60.0",
+    "react-hot-toast": "^2.5.2",
+    "react-loader-spinner": "^6.1.6",
+    "react-multi-date-picker": "^4.5.2",
+    "react18-input-otp": "^1.1.4",
+    "swiper": "^11.2.10",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.31.0",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9.31.0",
+    "eslint-config-next": "^15.4.1",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14",
+    "tailwindcss": "^4"
+  }
+}
